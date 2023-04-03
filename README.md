@@ -10,9 +10,9 @@
 ```
 <br>
 <center>
-<img src="images/task.png" width="70%" height="auto" />
+<img src="task.png" width="70%" height="auto" />
 <br><br>
-<img src="images/task_1.png" width="70%" height="auto" />
+<img src="task_1.png" width="70%" height="auto" />
 <br><br>
-<img src="images/task_1_1.png" width="70%" height="auto" />
+<img src="task_1_1.png" width="70%" height="auto" />
 </center>
