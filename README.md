@@ -1,7 +1,7 @@
-## <center>Task 1 <br> Landing Page</center>
+## <center>Task 3 <br> Temperature Converter</center>
 
 
-- [Click Here to visit site](http://diplomagraduate.ezyro.com/task1/?i=1)
+- [Click Here to visit site](http://diplomagraduate.ezyro.com/task3/?i=1)
 
 <hr>
 
@@ -10,9 +10,8 @@
 ```
 <br>
 <center>
-<img src="task.png" width="70%" height="auto" />
+<img src="images/task.png" width="70%" height="auto" />
 <br><br>
-<img src="task_1.png" width="70%" height="auto" />
+<img src="images/task1.png" width="70%" height="auto" />
 <br><br>
-<img src="task_1_1.png" width="70%" height="auto" />
 </center>
